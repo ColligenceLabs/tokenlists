@@ -11,6 +11,8 @@ export enum Network {
   // Arbitrum = '42161',
   // Avalanche = '43114',
   Sepolia = '11155111',
+  // Klaytn = '8217',
+  Baobab = '1001',
 }
 
 export interface Config {
