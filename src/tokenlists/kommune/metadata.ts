@@ -1,8 +1,8 @@
 export const metadata = {
-  name: 'Balancer',
+  name: 'Kommune',
   version: { major: 1, minor: 0, patch: 0 },
   keywords: [
-    'Balancer',
+    'KommuneDAO',
     'DeFi',
     'DEX',
     'AMM',

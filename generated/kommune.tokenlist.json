@@ -1,0 +1,51 @@
+{
+    "name": "Kommune",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "KommuneDAO",
+        "DeFi",
+        "DEX",
+        "AMM",
+        "Exchange",
+        "Liquidity",
+        "Pool",
+        "Token",
+        "Swap"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
+    "timestamp": "2024-03-05T03:40:51.650Z",
+    "tokens": [
+        {
+            "chainId": 11155111,
+            "address": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xc3a9b49b8317aD5fe2B98F5820A04E12FE3130D7",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xC7644eA220f716aDa111502b9FF047dDbfCE3Fd8",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 11155111,
+            "address": "0xD94090a7775c480eA0FC82e63b1F74A1f110d7C9",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18
+        }
+    ]
+}

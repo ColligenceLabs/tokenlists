@@ -11,14 +11,14 @@ import sepolia from './tokens/sepolia'
 import zkevm from './tokens/zkevm'
 
 export const tokens: TokensForList = {
-  [Network.Ethereum]: ethereum,
-  [Network.Goerli]: goerli,
-  [Network.Polygon]: polygon,
-  [Network.Arbitrum]: arbitrum,
-  [Network.Optimism]: optimism,
-  [Network.Gnosis]: gnosis,
-  [Network.Zkevm]: zkevm,
-  [Network.Avalanche]: avalanche,
+  // [Network.Ethereum]: ethereum,
+  // [Network.Goerli]: goerli,
+  // [Network.Polygon]: polygon,
+  // [Network.Arbitrum]: arbitrum,
+  // [Network.Optimism]: optimism,
+  // [Network.Gnosis]: gnosis,
+  // [Network.Zkevm]: zkevm,
+  // [Network.Avalanche]: avalanche,
   [Network.Sepolia]: sepolia,
-  [Network.Base]: base,
+  // [Network.Base]: base,
 }

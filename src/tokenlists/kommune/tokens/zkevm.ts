@@ -1,0 +1,3 @@
+export default [
+  '0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9', // WETH
+]

@@ -1,19 +1,14 @@
 import 'dotenv/config'
-import { TokenList, TokenInfo } from '@uniswap/token-lists'
-import { Network, PartialTokenInfoMap, TokenListMetadata } from './types'
-import { fetchOnchainMetadata } from './lib/fetchers/onchain'
-import { fetchExistingMetadata } from './lib/fetchers/existing'
-import { merge } from 'lodash'
-import { fetchCoingeckoMetadata } from './lib/fetchers/coingecko'
+import {TokenInfo, TokenList} from '@uniswap/token-lists'
+import {Network, PartialTokenInfoMap, TokenListMetadata} from './types'
+import {fetchOnchainMetadata} from './lib/fetchers/onchain'
+import {fetchExistingMetadata} from './lib/fetchers/existing'
+import {merge} from 'lodash'
+import {fetchCoingeckoMetadata} from './lib/fetchers/coingecko'
 import fs from 'fs'
-import { getAddress } from 'ethers'
+import {getAddress} from 'ethers'
 import chalk from 'chalk'
-import {
-  getTokenlistSrc,
-  getTokenlistsToBuild,
-  isEqualTokenlists,
-  safeStringify,
-} from './lib/utils'
+import {getTokenlistSrc, getTokenlistsToBuild, isEqualTokenlists, safeStringify,} from './lib/utils'
 
 /**
  * Primary generation function.
@@ -56,6 +51,7 @@ async function build(tokenlistName: string) {
     await getTokenlistSrc(tokenlistName)
 
   for (network in tokens) {
+    // if (network === Network.Zkevm) continue
     console.log(chalk.cyan(`Starting build for ${network}`))
     const tokenAddresses = tokens[network]
 
@@ -65,13 +61,13 @@ async function build(tokenlistName: string) {
     try {
       onchainMetadata = await fetchOnchainMetadata(network, tokenAddresses)
     } catch (e) {
-      if (network === Network.Zkevm) {
-        // Use existing ZKEVM token info when onchain ZKEVM errors
-        console.error(e)
-        const zkevmTokenInfo = readTokenInfo(tokenlistName, Number(network))
-        allTokens = allTokens.concat(zkevmTokenInfo)
-        continue
-      }
+      // if (network === Network.Zkevm) {
+      //   // Use existing ZKEVM token info when onchain ZKEVM errors
+      //   console.error(e)
+      //   const zkevmTokenInfo = readTokenInfo(tokenlistName, Number(network))
+      //   allTokens = allTokens.concat(zkevmTokenInfo)
+      //   continue
+      // }
       throw e
     }
     console.timeEnd(chalk.cyan(`Fetched onchain metadata for chain ${network}`))
