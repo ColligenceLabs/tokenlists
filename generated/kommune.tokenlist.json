@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-05T05:09:29.980Z",
+    "timestamp": "2024-03-06T03:10:12.457Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -28,23 +28,30 @@
         },
         {
             "chainId": 1001,
-            "address": "0xE611Ab92bad2797C849844E07Ca61c615617a788",
+            "address": "0xE48bbABc85Eb49C629226E421Ba54c793Fa5D19e",
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6
         },
         {
             "chainId": 1001,
-            "address": "0xaCA0dCb8B6CA87889Db61C66Ec08b43A5197c0Cc",
+            "address": "0x985acD34f36D91768aD4b0cB295Aa919A7ABDb27",
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6
         },
         {
             "chainId": 1001,
-            "address": "0xe6D28e683481dC29F32624b410825c7273D45E1D",
+            "address": "0x4828EA3e78B04504886c8d0F45e3abb3C52499B1",
             "name": "Dai Stablecoin",
             "symbol": "DAI",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x667DCb81deA11870e7a52c9d1E9E9f2760cE966E",
+            "name": "Talken",
+            "symbol": "TALK",
             "decimals": 18
         },
         {
