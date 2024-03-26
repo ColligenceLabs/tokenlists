@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-18T05:18:44.494Z",
+    "timestamp": "2024-03-26T00:43:10.999Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -52,6 +52,13 @@
             "address": "0xAde511125Cb633F190160b2876CA3BCec93dcCA7",
             "name": "Kommune",
             "symbol": "KDO",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x667DCb81deA11870e7a52c9d1E9E9f2760cE966E",
+            "name": "Talken",
+            "symbol": "TALK",
             "decimals": 18
         },
         {
