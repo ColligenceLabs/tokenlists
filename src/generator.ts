@@ -65,13 +65,13 @@ async function build(tokenlistName: string) {
     try {
       onchainMetadata = await fetchOnchainMetadata(network, tokenAddresses)
     } catch (e) {
-      if (network === Network.Zkevm) {
-        // Use existing ZKEVM token info when onchain ZKEVM errors
-        console.error(e)
-        const zkevmTokenInfo = readTokenInfo(tokenlistName, Number(network))
-        allTokens = allTokens.concat(zkevmTokenInfo)
-        continue
-      }
+      // if (network === Network.Zkevm) {
+      //   // Use existing ZKEVM token info when onchain ZKEVM errors
+      //   console.error(e)
+      //   const zkevmTokenInfo = readTokenInfo(tokenlistName, Number(network))
+      //   allTokens = allTokens.concat(zkevmTokenInfo)
+      //   continue
+      // }
       throw e
     }
     console.timeEnd(chalk.cyan(`Fetched onchain metadata for chain ${network}`))

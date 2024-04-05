@@ -1,0 +1,83 @@
+{
+    "name": "Kommune",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "KommuneDAO",
+        "DeFi",
+        "DEX",
+        "AMM",
+        "Exchange",
+        "Liquidity",
+        "Pool",
+        "Token",
+        "Swap"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
+    "timestamp": "2024-04-05T11:57:03.937Z",
+    "tokens": [
+        {
+            "chainId": 1001,
+            "address": "0x0339d5Eb6D195Ba90B13ed1BCeAa97EbD198b106",
+            "name": "Wrapped KLAY v10",
+            "symbol": "WKLAY",
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "wrapped-klay"
+            }
+        },
+        {
+            "chainId": 1001,
+            "address": "0xE48bbABc85Eb49C629226E421Ba54c793Fa5D19e",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "extensions": {
+                "coingeckoId": "usd-coin"
+            }
+        },
+        {
+            "chainId": 1001,
+            "address": "0x985acD34f36D91768aD4b0cB295Aa919A7ABDb27",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "extensions": {
+                "coingeckoId": "tether"
+            }
+        },
+        {
+            "chainId": 1001,
+            "address": "0x4828EA3e78B04504886c8d0F45e3abb3C52499B1",
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "dai"
+            }
+        },
+        {
+            "chainId": 1001,
+            "address": "0xAde511125Cb633F190160b2876CA3BCec93dcCA7",
+            "name": "Kommune",
+            "symbol": "KDO",
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "balancer"
+            }
+        },
+        {
+            "chainId": 1001,
+            "address": "0x667DCb81deA11870e7a52c9d1E9E9f2760cE966E",
+            "name": "Talken",
+            "symbol": "TALK",
+            "decimals": 18,
+            "extensions": {
+                "coingeckoId": "talken"
+            }
+        }
+    ]
+}

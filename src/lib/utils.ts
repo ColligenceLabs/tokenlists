@@ -37,7 +37,9 @@ export function isEqualTokenlists(
 export function getTokenlistsToBuild(): string[] {
   const tokenlistsPath = path.resolve(__dirname, '../tokenlists')
   const items = fs.readdirSync(tokenlistsPath, { withFileTypes: true })
-  return items.filter((item) => item.isDirectory()).map((item) => item.name)
+  // TODO : just generate for KommuneDAO
+  // return items.filter((item) => item.isDirectory()).map((item) => item.name)
+  return ['kommune']
 }
 
 export async function getTokenlistSrc(tokenlistName: string): Promise<{

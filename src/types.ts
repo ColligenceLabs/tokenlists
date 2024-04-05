@@ -6,12 +6,14 @@ export enum Network {
   Optimism = '10',
   Gnosis = '100',
   Polygon = '137',
-  Zkevm = '1101',
+  // Zkevm = '1101',
   Base = '8453',
   Arbitrum = '42161',
   Avalanche = '43114',
   Sepolia = '11155111',
   Fantom = '250',
+  Klaytn = '8217',
+  Baobab = '1001',
 }
 
 export interface Config {
