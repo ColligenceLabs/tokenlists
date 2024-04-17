@@ -1,7 +1,6 @@
 import { Network, TokensForList } from '../../types'
 
 import ethereum from "./tokens/ethereum";
-import goerli from "./tokens/goerli";
 import polygon from "./tokens/polygon";
 import arbitrum from "./tokens/arbitrum";
 import optimism from "./tokens/optimism";
@@ -10,13 +9,12 @@ import gnosis from "./tokens/gnosis";
 import avalanche from "./tokens/avalanche";
 import sepolia from "./tokens/sepolia";
 import base from "./tokens/base";
-import fantom from "./tokens/fantom";
+// import fantom from "./tokens/fantom";
 import klaytn from './tokens/klaytn'
 import baobab from './tokens/baobab'
 
 export const tokens: TokensForList = {
   [Network.Ethereum]: ethereum,
-  [Network.Goerli]: goerli,
   [Network.Polygon]: polygon,
   [Network.Arbitrum]: arbitrum,
   [Network.Optimism]: optimism,
@@ -25,7 +23,7 @@ export const tokens: TokensForList = {
   [Network.Avalanche]: avalanche,
   [Network.Sepolia]: sepolia,
   [Network.Base]: base,
-  [Network.Fantom]: fantom,
+  // [Network.Fantom]: fantom,
   [Network.Klaytn]: klaytn,
   [Network.Baobab]: baobab,
 }

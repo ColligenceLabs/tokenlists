@@ -10,7 +10,7 @@ export const overwrites: OverwritesForList = {
   // [Network.Zkevm]: {},
   // [Network.Klaytn]: {},
   [Network.Baobab]: {
-    '0xade511125cb633f190160b2876ca3bcec93dcca7': {
+    '0xb456FacD0Cdf4ea490D73b1863E3F80D9A5a4190': {
       symbol: 'KDO',
       extensions: {
         coingeckoId: 'balancer',
