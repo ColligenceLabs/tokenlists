@@ -37,7 +37,8 @@
             "decimals": 6,
             "extensions": {
                 "coingeckoId": "usd-coin"
-            }
+            },
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         {
             "chainId": 1001,
@@ -47,7 +48,8 @@
             "decimals": 6,
             "extensions": {
                 "coingeckoId": "tether"
-            }
+            },
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         },
         {
             "chainId": 1001,
@@ -57,7 +59,8 @@
             "decimals": 18,
             "extensions": {
                 "coingeckoId": "dai"
-            }
+            },
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
         },
         {
             "chainId": 1001,
@@ -67,7 +70,8 @@
             "decimals": 18,
             "extensions": {
                 "coingeckoId": "balancer"
-            }
+            },
+            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
         },
         {
             "chainId": 1001,
@@ -77,7 +81,7 @@
             "decimals": 18,
             "extensions": {
                 "coingeckoId": "talken"
-            }
+            },
         }
     ]
 }
