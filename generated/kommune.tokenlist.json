@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-05T11:57:03.937Z",
+    "timestamp": "2024-04-22T09:01:08.265Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -25,6 +25,7 @@
             "name": "Wrapped KLAY v10",
             "symbol": "WKLAY",
             "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23465.png",
             "extensions": {
                 "coingeckoId": "wrapped-klay"
             }
@@ -35,10 +36,10 @@
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/20240425/src/assets/images/tokens/0xe48bbabc85eb49c629226e421ba54c793fa5d19e.png",
             "extensions": {
                 "coingeckoId": "usd-coin"
-            },
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+            }
         },
         {
             "chainId": 1001,
@@ -46,10 +47,10 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1696501661",
             "extensions": {
                 "coingeckoId": "tether"
-            },
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+            }
         },
         {
             "chainId": 1001,
@@ -57,10 +58,10 @@
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/20240425/src/assets/images/tokens/0x4828ea3e78b04504886c8d0f45e3abb3c52499b1.png",
             "extensions": {
                 "coingeckoId": "dai"
-            },
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+            }
         },
         {
             "chainId": 1001,
@@ -68,10 +69,10 @@
             "name": "Kommune",
             "symbol": "KDO",
             "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/20240425/src/assets/images/tokens/0xb456facd0cdf4ea490d73b1863e3f80d9a5a4190.png",
             "extensions": {
                 "coingeckoId": "balancer"
-            },
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xba100000625a3754423978a60c9317c58a424e3d.png"
+            }
         },
         {
             "chainId": 1001,
@@ -79,9 +80,10 @@
             "name": "Talken",
             "symbol": "TALK",
             "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11552.png",
             "extensions": {
                 "coingeckoId": "talken"
-            },
+            }
         }
     ]
 }

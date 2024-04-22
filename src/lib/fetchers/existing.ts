@@ -67,7 +67,7 @@ function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
     tokenIcons.push({
       address: getAddress(address),
       // eslint-disable-next-line max-len
-      logoURI: `https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
+      logoURI: `https://raw.githubusercontent.com/ColligenceLabs/tokenlists/20240425/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
     })
   })
 
@@ -99,6 +99,7 @@ export async function fetchExistingMetadata(
   overwrites: OverwritesForList,
   existingTokenList: TokenList | undefined
 ): Promise<PartialTokenInfoMap> {
+  // TODO (Peter) : overwrites 내의 컨트랙 주소는 ethers -> getAddress와 동일하게 맞춰주어야 함.
   const overwritesMetadata = overwrites[network]
   const localTokenIcons = fetchLocalTokenIcons(network)
   const existingListMetadata = fetchExistingTokensListMap(
