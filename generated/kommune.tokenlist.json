@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-22T09:01:08.265Z",
+    "timestamp": "2024-04-23T08:41:39.855Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -84,6 +84,34 @@
             "extensions": {
                 "coingeckoId": "talken"
             }
+        },
+        {
+            "chainId": 1001,
+            "address": "0xe292005B14AF7f805522eBe0aC4eD451d195f1aF",
+            "name": "Kommune DAI-USDT-USDC Stable Pool",
+            "symbol": "DAI-USDT-USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xf7B7F4Cb09443af40A635a8C96a80c9FA3bBDbE1",
+            "name": "80KDO-20USDC",
+            "symbol": "80KDO-20USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xe066cB1d1967E6bc5a71Bc229081077BCbc5c131",
+            "name": "20WKLAY-80KDO",
+            "symbol": "20WKLAY-80KDO",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x206600F68589716D90992da5a584798f194Ba57d",
+            "name": "80WKLAY-20USDC",
+            "symbol": "80WKLAY-20USDC",
+            "decimals": 18
         }
     ]
 }
