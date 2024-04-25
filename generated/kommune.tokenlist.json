@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-23T08:41:39.855Z",
+    "timestamp": "2024-04-25T04:08:16.962Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -65,11 +65,11 @@
         },
         {
             "chainId": 1001,
-            "address": "0xb456FacD0Cdf4ea490D73b1863E3F80D9A5a4190",
+            "address": "0x3B1036767e3F58a104114440E722cDc8D737E555",
             "name": "Kommune",
             "symbol": "KDO",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/20240425/src/assets/images/tokens/0xb456facd0cdf4ea490d73b1863e3f80d9a5a4190.png",
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/20240425/src/assets/images/tokens/0x3b1036767e3f58a104114440e722cdc8d737e555.png",
             "extensions": {
                 "coingeckoId": "balancer"
             }
@@ -87,30 +87,16 @@
         },
         {
             "chainId": 1001,
-            "address": "0xe292005B14AF7f805522eBe0aC4eD451d195f1aF",
+            "address": "0x51710446a666d1ff12141b296Ca34bE0Bb3baD46",
             "name": "Kommune DAI-USDT-USDC Stable Pool",
             "symbol": "DAI-USDT-USDC",
             "decimals": 18
         },
         {
             "chainId": 1001,
-            "address": "0xf7B7F4Cb09443af40A635a8C96a80c9FA3bBDbE1",
-            "name": "80KDO-20USDC",
-            "symbol": "80KDO-20USDC",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xe066cB1d1967E6bc5a71Bc229081077BCbc5c131",
+            "address": "0xa0465e7C5f9d430246221C4A5DCFB2752a3C95f2",
             "name": "20WKLAY-80KDO",
             "symbol": "20WKLAY-80KDO",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0x206600F68589716D90992da5a584798f194Ba57d",
-            "name": "80WKLAY-20USDC",
-            "symbol": "80WKLAY-20USDC",
             "decimals": 18
         }
     ]
