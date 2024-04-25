@@ -21,6 +21,9 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'dai',
       },
+      logoURI:
+        // eslint-disable-next-line max-len
+        'https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png',
     },
     '0xE48bbABc85Eb49C629226E421Ba54c793Fa5D19e': {
       symbol: 'USDC',
@@ -34,7 +37,7 @@ export const overwrites: OverwritesForList = {
         coingeckoId: 'tether',
       },
       logoURI:
-      // eslint-disable-next-line max-len
+        // eslint-disable-next-line max-len
         'https://assets.coingecko.com/coins/images/325/large/Tether.png?1696501661',
     },
     '0x0339d5Eb6D195Ba90B13ed1BCeAa97EbD198b106': {
