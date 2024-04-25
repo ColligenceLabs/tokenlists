@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-04-25T08:00:39.654Z",
+    "timestamp": "2024-04-25T08:14:36.685Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -111,6 +111,20 @@
             "address": "0xa0465e7C5f9d430246221C4A5DCFB2752a3C95f2",
             "name": "20WKLAY-80KDO",
             "symbol": "20WKLAY-80KDO",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xC96E15adD9838B0Dcc5E414e7884aBdF65eD241c",
+            "name": "80KDO-20USDC",
+            "symbol": "80KDO-20USDC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x8bc613Ad9B646B4D810d8bB218AA376dCf674aCC",
+            "name": "80WKLAY-20USDC",
+            "symbol": "80WKLAY-20USDC",
             "decimals": 18
         }
     ]
