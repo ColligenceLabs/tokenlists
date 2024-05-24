@@ -2,7 +2,7 @@
     "name": "Kommune",
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "keywords": [
@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-03-26T00:43:10.999Z",
+    "timestamp": "2024-05-24T01:36:26.492Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -59,6 +59,13 @@
             "address": "0x667DCb81deA11870e7a52c9d1E9E9f2760cE966E",
             "name": "Talken",
             "symbol": "TALK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xC0F4c16c06c8D1a7f6e652b790cD12f475695A60",
+            "name": "Kommune Test Token",
+            "symbol": "KKK",
             "decimals": 18
         },
         {
