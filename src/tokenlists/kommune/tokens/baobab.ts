@@ -11,4 +11,5 @@ export default [
   '0xa0465e7c5f9d430246221c4a5dcfb2752a3c95f2', // 20WKLAY-80KDO
   '0xc96e15add9838b0dcc5e414e7884abdf65ed241c', // 80KDO-20USDC
   '0x8bc613ad9b646b4d810d8bb218aa376dcf674acc', // 80WKLAY-20USDC
+  '0xdefbb5d1412fe754ea45e8fa980aa9db29111a83', // RICE (ABC Ben)
 ]
