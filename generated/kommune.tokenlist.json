@@ -133,6 +133,13 @@
             "name": "RICE Token",
             "symbol": "RICE",
             "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xbcADdFA421a494c2EbF026AE84619Faa384adfb9",
+            "name": "BENCAKE",
+            "symbol": "BCK",
+            "decimals": 18
         }
     ]
 }
