@@ -12,4 +12,5 @@ export default [
   '0xc96e15add9838b0dcc5e414e7884abdf65ed241c', // 80KDO-20USDC
   '0x8bc613ad9b646b4d810d8bb218aa376dcf674acc', // 80WKLAY-20USDC
   '0xdefbb5d1412fe754ea45e8fa980aa9db29111a83', // RICE (ABC Ben)
+  '0xbcADdFA421a494c2EbF026AE84619Faa384adfb9', // BENCAKE
 ]
