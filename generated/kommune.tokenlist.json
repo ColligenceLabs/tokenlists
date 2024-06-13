@@ -140,6 +140,20 @@
             "name": "BENCAKE",
             "symbol": "BCK",
             "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x6EC72FaDa43020adA294e3dF3b49747F02350E46",
+            "name": "ABC Token",
+            "symbol": "ABC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xb367a158f2145A7A7ec93240713f6511E489A585",
+            "name": "CCC Token",
+            "symbol": "CCC",
+            "decimals": 18
         }
     ]
 }
