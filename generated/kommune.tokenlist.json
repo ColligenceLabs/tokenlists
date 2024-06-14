@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-06-12T08:21:51.658Z",
+    "timestamp": "2024-06-13T07:41:02.146Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -153,6 +153,20 @@
             "address": "0xb367a158f2145A7A7ec93240713f6511E489A585",
             "name": "CCC Token",
             "symbol": "CCC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x0CafF2906BE2BA3a3f5737f405A76694759751Dd",
+            "name": "RICE2",
+            "symbol": "RICE2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x0633B65Ab4C13bb90440575c12cA4209107C14D3",
+            "name": "RICE3",
+            "symbol": "RICE3",
             "decimals": 18
         }
     ]
