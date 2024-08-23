@@ -8,7 +8,7 @@ export enum Network {
   // Zkevm = '1101',
   Base = '8453',
   Arbitrum = '42161',
-  Avalanche = '43114',
+  // Avalanche = '43114',
   Sepolia = '11155111',
   // Fantom = '250',
   Klaytn = '8217',

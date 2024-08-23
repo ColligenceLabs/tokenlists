@@ -14,7 +14,7 @@ import baobab from './baobab'
 
 const config: Configs = {
   [Network.Arbitrum]: arbitrum,
-  [Network.Avalanche]: avalanche,
+  // [Network.Avalanche]: avalanche,
   [Network.Base]: base,
   [Network.Gnosis]: gnosis,
   [Network.Ethereum]: ethereum,

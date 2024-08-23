@@ -11,4 +11,6 @@ export default [
   '0xa0465e7c5f9d430246221c4a5dcfb2752a3c95f2', // 20WKLAY-80KDO
   '0xc96e15add9838b0dcc5e414e7884abdf65ed241c', // 80KDO-20USDC
   '0x8bc613ad9b646b4d810d8bb218aa376dcf674acc', // 80WKLAY-20USDC
+  '0xadc7b1e01b5f4b4c039075c2e1e94754993dbf8a', // KoKlay
+  '0x220d56c0e2531ae92765b62282424f631e4a5bb4', // KoKaia
 ]

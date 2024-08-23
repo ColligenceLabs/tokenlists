@@ -20,7 +20,7 @@ export const tokens: TokensForList = {
   [Network.Optimism]: optimism,
   [Network.Gnosis]: gnosis,
   // [Network.Zkevm]: zkevm,
-  [Network.Avalanche]: avalanche,
+  // [Network.Avalanche]: avalanche,
   [Network.Sepolia]: sepolia,
   [Network.Base]: base,
   // [Network.Fantom]: fantom,
