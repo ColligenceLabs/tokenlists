@@ -129,6 +129,48 @@
         },
         {
             "chainId": 1001,
+            "address": "0xdEFbB5D1412fE754ea45E8fa980aA9DB29111a83",
+            "name": "RICE Token",
+            "symbol": "RICE",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xbcADdFA421a494c2EbF026AE84619Faa384adfb9",
+            "name": "BENCAKE",
+            "symbol": "BCK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x6EC72FaDa43020adA294e3dF3b49747F02350E46",
+            "name": "ABC Token",
+            "symbol": "ABC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xb367a158f2145A7A7ec93240713f6511E489A585",
+            "name": "CCC Token",
+            "symbol": "CCC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x0CafF2906BE2BA3a3f5737f405A76694759751Dd",
+            "name": "RICE2",
+            "symbol": "RICE2",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x0633B65Ab4C13bb90440575c12cA4209107C14D3",
+            "name": "RICE3",
+            "symbol": "RICE3",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
             "address": "0xadc7B1E01B5F4B4C039075c2E1e94754993DBf8a",
             "name": "Kommune KLAY",
             "symbol": "KoKLAY",
