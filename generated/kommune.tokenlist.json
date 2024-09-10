@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-10T02:06:30.848Z",
+    "timestamp": "2024-09-10T02:15:00.881Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -129,6 +129,20 @@
         },
         {
             "chainId": 1001,
+            "address": "0xadc7B1E01B5F4B4C039075c2E1e94754993DBf8a",
+            "name": "Kommune KLAY",
+            "symbol": "KoKLAY",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x220d56c0e2531ae92765B62282424F631E4A5bB4",
+            "name": "Kommune KAIA",
+            "symbol": "KoKAIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
             "address": "0xdEFbB5D1412fE754ea45E8fa980aA9DB29111a83",
             "name": "RICE Token",
             "symbol": "RICE",
@@ -167,13 +181,6 @@
             "address": "0x0633B65Ab4C13bb90440575c12cA4209107C14D3",
             "name": "RICE3",
             "symbol": "RICE3",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xadc7B1E01B5F4B4C039075c2E1e94754993DBf8a",
-            "name": "Kommune KLAY",
-            "symbol": "KoKLAY",
             "decimals": 18
         },
         {
