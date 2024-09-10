@@ -185,14 +185,14 @@
         },
         {
             "chainId": 1001,
-            "address": "0xc950c777459511e13d564368ad49614f71ae8659",
+            "address": "0xc950C777459511E13d564368aD49614F71Ae8659",
             "name": "Test Coin 1",
             "symbol": "XXX",
             "decimals": 18
         },
         {
             "chainId": 1001,
-            "address": "0xa56d247eddf4e3e585a4f3dc718675ce5799067b",
+            "address": "0xa56D247EddF4E3e585a4F3dc718675Ce5799067B",
             "name": "Test Coin 2",
             "symbol": "YYY",
             "decimals": 18
