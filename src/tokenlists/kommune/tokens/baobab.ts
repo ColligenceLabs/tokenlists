@@ -1,3 +1,5 @@
+// 반드시 Checksummed Address 입력되어야 함
+
 export default [
   '0x0339d5eb6d195ba90b13ed1bceaa97ebd198b106', // WKLAY
   '0xe48bbabc85eb49c629226e421ba54c793fa5d19e', // USDC (Talken)

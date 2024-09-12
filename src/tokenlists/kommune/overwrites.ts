@@ -45,7 +45,7 @@ export const overwrites: OverwritesForList = {
       extensions: {
         coingeckoId: 'wrapped-klay',
       },
-      logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/23465.png',
+      logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png',
     },
     '0x667DCb81deA11870e7a52c9d1E9E9f2760cE966E': {
       symbol: 'TALK',
