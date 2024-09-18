@@ -17,17 +17,17 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-12T03:12:59.902Z",
+    "timestamp": "2024-09-18T23:15:09.260Z",
     "tokens": [
         {
             "chainId": 1001,
             "address": "0x0339d5Eb6D195Ba90B13ed1BCeAa97EbD198b106",
             "name": "Wrapped KLAY v10",
-            "symbol": "WKLAY",
+            "symbol": "WKAIA",
             "decimals": 18,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png",
             "extensions": {
-                "coingeckoId": "wrapped-klay"
+                "coingeckoId": "wrapped-kaia"
             }
         },
         {

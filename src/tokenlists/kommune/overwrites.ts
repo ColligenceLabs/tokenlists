@@ -41,9 +41,9 @@ export const overwrites: OverwritesForList = {
         'https://assets.coingecko.com/coins/images/325/large/Tether.png?1696501661',
     },
     '0x0339d5Eb6D195Ba90B13ed1BCeAa97EbD198b106': {
-      symbol: 'WKLAY',
+      symbol: 'WKAIA',
       extensions: {
-        coingeckoId: 'wrapped-klay',
+        coingeckoId: 'wrapped-kaia',
       },
       logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png',
     },
