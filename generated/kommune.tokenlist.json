@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-09-18T23:15:09.260Z",
+    "timestamp": "2024-10-08T04:23:06.379Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -28,17 +28,6 @@
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png",
             "extensions": {
                 "coingeckoId": "wrapped-kaia"
-            }
-        },
-        {
-            "chainId": 1001,
-            "address": "0xE48bbABc85Eb49C629226E421Ba54c793Fa5D19e",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/20240425/src/assets/images/tokens/0xe48bbabc85eb49c629226e421ba54c793fa5d19e.png",
-            "extensions": {
-                "coingeckoId": "usd-coin"
             }
         },
         {
@@ -54,147 +43,30 @@
         },
         {
             "chainId": 1001,
-            "address": "0x4828EA3e78B04504886c8d0F45e3abb3C52499B1",
-            "name": "Dai Stablecoin",
-            "symbol": "DAI",
-            "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-            "extensions": {
-                "coingeckoId": "dai"
-            }
-        },
-        {
-            "chainId": 1001,
-            "address": "0x3B1036767e3F58a104114440E722cDc8D737E555",
-            "name": "Kommune",
-            "symbol": "KDO",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/20240425/src/assets/images/tokens/0x3b1036767e3f58a104114440e722cdc8d737e555.png",
-            "extensions": {
-                "coingeckoId": "balancer"
-            }
-        },
-        {
-            "chainId": 1001,
-            "address": "0x667DCb81deA11870e7a52c9d1E9E9f2760cE966E",
-            "name": "Talken",
-            "symbol": "TALK",
-            "decimals": 18,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11552.png",
-            "extensions": {
-                "coingeckoId": "talken"
-            }
-        },
-        {
-            "chainId": 1001,
-            "address": "0x51710446a666d1ff12141b296Ca34bE0Bb3baD46",
-            "name": "Kommune DAI-USDT-USDC Stable Pool",
-            "symbol": "DAI-USDT-USDC",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xa0465e7C5f9d430246221C4A5DCFB2752a3C95f2",
-            "name": "20WKLAY-80KDO",
-            "symbol": "20WKLAY-80KDO",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0x51710446a666d1ff12141b296Ca34bE0Bb3baD46",
-            "name": "Kommune DAI-USDT-USDC Stable Pool",
-            "symbol": "DAI-USDT-USDC",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xa0465e7C5f9d430246221C4A5DCFB2752a3C95f2",
-            "name": "20WKLAY-80KDO",
-            "symbol": "20WKLAY-80KDO",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xC96E15adD9838B0Dcc5E414e7884aBdF65eD241c",
-            "name": "80KDO-20USDC",
-            "symbol": "80KDO-20USDC",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0x8bc613Ad9B646B4D810d8bB218AA376dCf674aCC",
-            "name": "80WKLAY-20USDC",
-            "symbol": "80WKLAY-20USDC",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xadc7B1E01B5F4B4C039075c2E1e94754993DBf8a",
-            "name": "Kommune KLAY",
-            "symbol": "KoKLAY",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0x220d56c0e2531ae92765B62282424F631E4A5bB4",
-            "name": "Kommune KAIA",
+            "address": "0x8c1954Dc070159E1E7b3D66de82371291e367b2a",
+            "name": "KoKAIA",
             "symbol": "KoKAIA",
             "decimals": 18
         },
         {
             "chainId": 1001,
-            "address": "0xdEFbB5D1412fE754ea45E8fa980aA9DB29111a83",
-            "name": "RICE Token",
-            "symbol": "RICE",
+            "address": "0x4EC04F4D46D7e34EBf0C3932B65068168FDcE7f6",
+            "name": "GCKLAY",
+            "symbol": "GCKLAY",
             "decimals": 18
         },
         {
             "chainId": 1001,
-            "address": "0xbcADdFA421a494c2EbF026AE84619Faa384adfb9",
-            "name": "BENCAKE",
-            "symbol": "BCK",
+            "address": "0x524dCFf07BFF606225A4FA76AFA55D705B052004",
+            "name": "stKLAY",
+            "symbol": "stKLAY",
             "decimals": 18
         },
         {
             "chainId": 1001,
-            "address": "0x6EC72FaDa43020adA294e3dF3b49747F02350E46",
-            "name": "ABC Token",
-            "symbol": "ABC",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xb367a158f2145A7A7ec93240713f6511E489A585",
-            "name": "CCC Token",
-            "symbol": "CCC",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0x0CafF2906BE2BA3a3f5737f405A76694759751Dd",
-            "name": "RICE2",
-            "symbol": "RICE2",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0x0633B65Ab4C13bb90440575c12cA4209107C14D3",
-            "name": "RICE3",
-            "symbol": "RICE3",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xc950C777459511E13d564368aD49614F71Ae8659",
-            "name": "Test Coin 1",
-            "symbol": "XXX",
-            "decimals": 18
-        },
-        {
-            "chainId": 1001,
-            "address": "0xa56D247EddF4E3e585a4F3dc718675Ce5799067B",
-            "name": "Test Coin 2",
-            "symbol": "YYY",
+            "address": "0x2AA2b61a2443CE46992FaF580A046Be560402CB6",
+            "name": "stKAIA",
+            "symbol": "stKAIA",
             "decimals": 18
         }
     ]
