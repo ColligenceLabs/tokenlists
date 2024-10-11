@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-08T04:23:06.379Z",
+    "timestamp": "2024-10-11T05:18:51.239Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -67,6 +67,13 @@
             "address": "0x2AA2b61a2443CE46992FaF580A046Be560402CB6",
             "name": "stKAIA",
             "symbol": "stKAIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xf0c16545064412C93fE0eD1a7E82d60c05DD1608",
+            "name": "Kaia LST Stable Pool",
+            "symbol": "KAIA-LST",
             "decimals": 18
         }
     ]
