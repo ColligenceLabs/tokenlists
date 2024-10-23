@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-11T05:18:51.239Z",
+    "timestamp": "2024-10-23T01:53:34.572Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -71,7 +71,7 @@
         },
         {
             "chainId": 1001,
-            "address": "0xf0c16545064412C93fE0eD1a7E82d60c05DD1608",
+            "address": "0xDf57a1A59c9ee033D04637E2481B2608eFFf460f",
             "name": "Kaia LST Stable Pool",
             "symbol": "KAIA-LST",
             "decimals": 18
