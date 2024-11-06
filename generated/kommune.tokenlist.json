@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-10-23T06:54:24.212Z",
+    "timestamp": "2024-11-06T07:58:21.778Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -81,6 +81,76 @@
             "address": "0xc77f7541B38B44BCfCEc2b4b51452B6D048EC56b",
             "name": "WKAIA/KAIA-LST Stable Pool",
             "symbol": "WKAIA/KAIA-LST",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432",
+            "name": "Wrapped Klay",
+            "symbol": "WKLAY",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 8217,
+            "address": "0xA1338309658D3Da331C747518d0bb414031F22fd",
+            "name": "Kommune KAIA",
+            "symbol": "KoKAIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0xdEC2Cc84f0a37Ef917f63212FE8ba7494b0E4B15",
+            "name": "Kommune Wrapped KoKLAY",
+            "symbol": "wKoKLAY",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0x999999999939Ba65AbB254339eEc0b2A0daC80E9",
+            "name": "Governance Council KLAY",
+            "symbol": "GCKLAY",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0xa9999999c3D05Fb75cE7230e0D22F5625527d583",
+            "name": "Wrapped Governance Council KLAY",
+            "symbol": "wGCKLAY",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0xF80F2b22932fCEC6189b9153aA18662b15CC9C00",
+            "name": "Stake.ly Staked KLAY",
+            "symbol": "stKLAY",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0x031fB2854029885E1D46b394c8B7881c8ec6AD63",
+            "name": "Stake.ly Wrapped stKLAY",
+            "symbol": "wstKLAY",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0x42952B873ed6f7f0A7E4992E2a9818E3A9001995",
+            "name": "Lair Staked KAIA",
+            "symbol": "stKAIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0xA323d7386b671E8799dcA3582D6658FdcDcD940A",
+            "name": "sKlay",
+            "symbol": "SKLAY",
             "decimals": 18
         }
     ]
