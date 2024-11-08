@@ -55,4 +55,22 @@ export const overwrites: OverwritesForList = {
       logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/11552.png',
     },
   },
+  [Network.Klaytn]: {
+    '0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2': {
+      symbol: 'USDT',
+      extensions: {
+        coingeckoId: 'tether',
+      },
+      logoURI:
+      // eslint-disable-next-line max-len
+        'https://assets.coingecko.com/coins/images/325/large/Tether.png?1696501661',
+    },
+    '0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432': {
+      symbol: 'WKAIA',
+      extensions: {
+        coingeckoId: 'wrapped-kaia',
+      },
+      logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png',
+    },
+  },
 }

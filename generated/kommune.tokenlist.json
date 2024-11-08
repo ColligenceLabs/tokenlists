@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-08T07:19:47.588Z",
+    "timestamp": "2024-11-08T10:52:22.159Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -87,15 +87,23 @@
             "chainId": 8217,
             "address": "0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432",
             "name": "Wrapped Klay",
-            "symbol": "WKLAY",
-            "decimals": 18
+            "symbol": "WKAIA",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png",
+            "extensions": {
+                "coingeckoId": "wrapped-kaia"
+            }
         },
         {
             "chainId": 8217,
             "address": "0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+            "extensions": {
+                "coingeckoId": "tether"
+            }
         },
         {
             "chainId": 8217,
