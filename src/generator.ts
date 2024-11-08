@@ -1,19 +1,13 @@
-import 'dotenv/config'
-import { TokenList, TokenInfo } from '@uniswap/token-lists'
-import { Network, PartialTokenInfoMap, TokenListMetadata } from './types'
-import { fetchOnchainMetadata } from './lib/fetchers/onchain'
-import { fetchExistingMetadata } from './lib/fetchers/existing'
-import { merge } from 'lodash'
-import { fetchCoingeckoMetadata } from './lib/fetchers/coingecko'
-import fs from 'fs'
-import { getAddress } from 'ethers'
-import chalk from 'chalk'
-import {
-  getTokenlistSrc,
-  getTokenlistsToBuild,
-  isEqualTokenlists,
-  safeStringify,
-} from './lib/utils'
+import "dotenv/config";
+import { TokenInfo, TokenList } from "@uniswap/token-lists";
+import { Network, PartialTokenInfoMap, TokenListMetadata } from "./types";
+import { fetchOnchainMetadata } from "./lib/fetchers/onchain";
+import { fetchExistingMetadata } from "./lib/fetchers/existing";
+import { merge } from "lodash";
+import fs from "fs";
+import { getAddress } from "ethers";
+import chalk from "chalk";
+import { getTokenlistSrc, getTokenlistsToBuild, isEqualTokenlists, safeStringify } from "./lib/utils";
 
 /**
  * Primary generation function.

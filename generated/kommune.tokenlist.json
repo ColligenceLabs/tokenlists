@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-06T07:58:21.778Z",
+    "timestamp": "2024-11-08T00:29:39.619Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -107,7 +107,7 @@
         {
             "chainId": 8217,
             "address": "0xdEC2Cc84f0a37Ef917f63212FE8ba7494b0E4B15",
-            "name": "Kommune Wrapped KoKLAY",
+            "name": "Kommune Wrapped KoKAIA",
             "symbol": "wKoKLAY",
             "decimals": 18
         },
@@ -115,14 +115,14 @@
             "chainId": 8217,
             "address": "0x999999999939Ba65AbB254339eEc0b2A0daC80E9",
             "name": "Governance Council KLAY",
-            "symbol": "GCKLAY",
+            "symbol": "GCKAIA",
             "decimals": 18
         },
         {
             "chainId": 8217,
             "address": "0xa9999999c3D05Fb75cE7230e0D22F5625527d583",
             "name": "Wrapped Governance Council KLAY",
-            "symbol": "wGCKLAY",
+            "symbol": "wGCKAIA",
             "decimals": 18
         },
         {
