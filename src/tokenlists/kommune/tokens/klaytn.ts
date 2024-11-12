@@ -11,5 +11,5 @@ export default [
   '0x031fb2854029885e1d46b394c8b7881c8ec6ad63', // wStKLAY
   '0x42952b873ed6f7f0a7e4992e2a9818e3a9001995', // stKAIA    - Lair Bughole
   '0xa323d7386b671e8799dca3582d6658fdcdcd940a', // sKLAY     - Ozys Klaystation
-  '0x008e2199f7281d6532e6e3d66937c17d866681fe', // LST-POOL
+  '0x012A46C6ABbD563a368AD18075F6135bdf371E79', // LST-POOL
 ]
