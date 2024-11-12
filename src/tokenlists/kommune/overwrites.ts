@@ -68,7 +68,7 @@ export const overwrites: OverwritesForList = {
     '0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432': {
       symbol: 'WKAIA',
       extensions: {
-        coingeckoId: 'wrapped-kaia',
+        coingeckoId: 'kaia',
       },
       logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png',
     },
