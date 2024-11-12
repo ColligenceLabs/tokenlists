@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-12T02:54:17.471Z",
+    "timestamp": "2024-11-12T04:50:21.942Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -27,7 +27,7 @@
             "decimals": 18,
             "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png",
             "extensions": {
-                "coingeckoId": "wrapped-kaia"
+                "coingeckoId": "kaia"
             }
         },
         {
@@ -152,14 +152,22 @@
             "address": "0x42952B873ed6f7f0A7E4992E2a9818E3A9001995",
             "name": "Lair Staked KAIA",
             "symbol": "stKAIA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/40001/standard/token_stkaia.png?1725117614",
+            "extensions": {
+                "coingeckoId": "lair-staked-kaia"
+            }
         },
         {
             "chainId": 8217,
             "address": "0xA323d7386b671E8799dcA3582D6658FdcDcD940A",
             "name": "sKlay",
             "symbol": "SKLAY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/13912/standard/sKLAY_logo.png?1696513653",
+            "extensions": {
+                "coingeckoId": "sklay"
+            }
         },
         {
             "chainId": 8217,
