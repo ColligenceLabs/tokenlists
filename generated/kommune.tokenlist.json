@@ -17,29 +17,21 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-12T04:50:21.942Z",
+    "timestamp": "2024-11-13T06:12:29.181Z",
     "tokens": [
         {
             "chainId": 1001,
             "address": "0x0339d5Eb6D195Ba90B13ed1BCeAa97EbD198b106",
             "name": "Wrapped KLAY v10",
-            "symbol": "WKAIA",
-            "decimals": 18,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png",
-            "extensions": {
-                "coingeckoId": "kaia"
-            }
+            "symbol": "WKLAY",
+            "decimals": 18
         },
         {
             "chainId": 1001,
             "address": "0x985acD34f36D91768aD4b0cB295Aa919A7ABDb27",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 6,
-            "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-            "extensions": {
-                "coingeckoId": "tether"
-            }
+            "decimals": 6
         },
         {
             "chainId": 1001,
@@ -110,42 +102,48 @@
             "address": "0xA1338309658D3Da331C747518d0bb414031F22fd",
             "name": "Kommune KAIA",
             "symbol": "KoKAIA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wKoKAIA.png"
         },
         {
             "chainId": 8217,
             "address": "0xdEC2Cc84f0a37Ef917f63212FE8ba7494b0E4B15",
             "name": "Kommune Wrapped KoKAIA",
             "symbol": "wKoKAIA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wKoKAIA.png"
         },
         {
             "chainId": 8217,
             "address": "0x999999999939Ba65AbB254339eEc0b2A0daC80E9",
             "name": "Governance Council KLAY",
             "symbol": "GCKAIA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wGCKAIA.png"
         },
         {
             "chainId": 8217,
             "address": "0xa9999999c3D05Fb75cE7230e0D22F5625527d583",
             "name": "Wrapped Governance Council KLAY",
             "symbol": "wGCKAIA",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wGCKAIA.png"
         },
         {
             "chainId": 8217,
             "address": "0xF80F2b22932fCEC6189b9153aA18662b15CC9C00",
             "name": "Stake.ly Staked KLAY",
             "symbol": "stKLAY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wstKLAY.png"
         },
         {
             "chainId": 8217,
             "address": "0x031fB2854029885E1D46b394c8B7881c8ec6AD63",
             "name": "Stake.ly Wrapped stKLAY",
             "symbol": "wstKLAY",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wstKLAY.png"
         },
         {
             "chainId": 8217,
@@ -162,7 +160,7 @@
             "chainId": 8217,
             "address": "0xA323d7386b671E8799dcA3582D6658FdcDcD940A",
             "name": "sKlay",
-            "symbol": "SKLAY",
+            "symbol": "sKLAY",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/13912/standard/sKLAY_logo.png?1696513653",
             "extensions": {
