@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-13T06:12:29.181Z",
+    "timestamp": "2024-11-13T06:28:59.539Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -103,7 +103,7 @@
             "name": "Kommune KAIA",
             "symbol": "KoKAIA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wKoKAIA.png"
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/KOKAIA.png"
         },
         {
             "chainId": 8217,
@@ -119,7 +119,7 @@
             "name": "Governance Council KLAY",
             "symbol": "GCKAIA",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wGCKAIA.png"
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/GCKAIA.png"
         },
         {
             "chainId": 8217,
@@ -135,7 +135,7 @@
             "name": "Stake.ly Staked KLAY",
             "symbol": "stKLAY",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wstKLAY.png"
+            "logoURI": "https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/stKLAY.png"
         },
         {
             "chainId": 8217,
