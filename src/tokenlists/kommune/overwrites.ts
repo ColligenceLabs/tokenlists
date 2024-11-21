@@ -56,7 +56,7 @@ export const overwrites: OverwritesForList = {
     },
   },
   [Network.Klaytn]: {
-    '0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2': {
+    '0x5C13E303a62Fc5DEdf5B52D66873f2E59fEdADC2': {
       symbol: 'USDT',
       extensions: {
         coingeckoId: 'tether',
@@ -65,14 +65,14 @@ export const overwrites: OverwritesForList = {
         // eslint-disable-next-line max-len
         'https://assets.coingecko.com/coins/images/325/large/Tether.png?1696501661',
     },
-    '0x19aac5f612f524b754ca7e7c41cbfa2e981a4432': {
+    '0x19Aac5f612f524B754CA7e7c41cbFa2E981A4432': {
       symbol: 'WKAIA',
       extensions: {
         coingeckoId: 'kaia',
       },
       logoURI: 'https://s2.coinmarketcap.com/static/img/coins/64x64/32880.png',
     },
-    '0x42952b873ed6f7f0a7e4992e2a9818e3a9001995': {
+    '0x42952B873ed6f7f0A7E4992E2a9818E3A9001995': {
       symbol: 'stKAIA',
       extensions: {
         coingeckoId: 'lair-staked-kaia',
@@ -81,7 +81,7 @@ export const overwrites: OverwritesForList = {
         // eslint-disable-next-line max-len
         'https://assets.coingecko.com/coins/images/40001/standard/token_stkaia.png?1725117614',
     },
-    '0xa323d7386b671e8799dca3582d6658fdcdcd940a': {
+    '0xA323d7386b671E8799dcA3582D6658FdcDcD940A': {
       symbol: 'sKLAY',
       extensions: {
         coingeckoId: 'sklay',
@@ -90,37 +90,37 @@ export const overwrites: OverwritesForList = {
         // eslint-disable-next-line max-len
         'https://assets.coingecko.com/coins/images/13912/standard/sKLAY_logo.png?1696513653',
     },
-    '0x999999999939ba65abb254339eec0b2a0dac80e9': {
+    '0x999999999939Ba65AbB254339eEc0b2A0daC80E9': {
       symbol: 'GCKAIA',
       logoURI:
       // eslint-disable-next-line max-len
         'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/GCKAIA.png',
     },
-    '0xa9999999c3d05fb75ce7230e0d22f5625527d583': {
+    '0xa9999999c3D05Fb75cE7230e0D22F5625527d583': {
       symbol: 'wGCKAIA',
       logoURI:
       // eslint-disable-next-line max-len
         'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wGCKAIA.png',
     },
-    '0xf80f2b22932fcec6189b9153aa18662b15cc9c00': {
+    '0xF80F2b22932fCEC6189b9153aA18662b15CC9C00': {
       symbol: 'stKLAY',
       logoURI:
       // eslint-disable-next-line max-len
         'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/stKLAY.png',
     },
-    '0x031fb2854029885e1d46b394c8b7881c8ec6ad63': {
+    '0x031fB2854029885E1D46b394c8B7881c8ec6AD63': {
       symbol: 'wstKLAY',
       logoURI:
         // eslint-disable-next-line max-len
         'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wstKLAY.png',
     },
-    '0xa1338309658d3da331c747518d0bb414031f22fd': {
+    '0xA1338309658D3Da331C747518d0bb414031F22fd': {
       symbol: 'KoKAIA',
       logoURI:
       // eslint-disable-next-line max-len
         'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/KOKAIA.png',
     },
-    '0xdec2cc84f0a37ef917f63212fe8ba7494b0e4b15': {
+    '0xdEC2Cc84f0a37Ef917f63212FE8ba7494b0E4B15': {
       symbol: 'wKoKAIA',
       logoURI:
         // eslint-disable-next-line max-len
