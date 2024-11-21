@@ -126,7 +126,8 @@ async function generateTokens(
   const tokens: TokenInfo[] = []
 
   for (const tokenAddress of tokenAddresses) {
-    const existingToken = existingMetadata[getAddress(tokenAddress)]
+    // const existingToken = existingMetadata[getAddress(tokenAddress)]
+    const existingToken = existingMetadata[tokenAddress.toLowerCase()]
     const onchainToken = onchainMetadata[tokenAddress]
     const tokenInfo = await setTokenInfo(
       tokenAddress,
