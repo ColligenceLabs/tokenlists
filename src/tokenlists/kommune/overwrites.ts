@@ -93,38 +93,38 @@ export const overwrites: OverwritesForList = {
     '0x999999999939Ba65AbB254339eEc0b2A0daC80E9': {
       symbol: 'GCKAIA',
       logoURI:
-      // eslint-disable-next-line max-len
-        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/GCKAIA.png',
+        // eslint-disable-next-line max-len
+        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/prod/src/assets/images/tokens/GCKAIA.png',
     },
     '0xa9999999c3D05Fb75cE7230e0D22F5625527d583': {
       symbol: 'wGCKAIA',
       logoURI:
-      // eslint-disable-next-line max-len
-        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wGCKAIA.png',
+        // eslint-disable-next-line max-len
+        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/prod/src/assets/images/tokens/wGCKAIA.png',
     },
     '0xF80F2b22932fCEC6189b9153aA18662b15CC9C00': {
       symbol: 'stKLAY',
       logoURI:
-      // eslint-disable-next-line max-len
-        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/stKLAY.png',
+        // eslint-disable-next-line max-len
+        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/prod/src/assets/images/tokens/stKLAY.png',
     },
     '0x031fB2854029885E1D46b394c8B7881c8ec6AD63': {
       symbol: 'wstKLAY',
       logoURI:
         // eslint-disable-next-line max-len
-        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wstKLAY.png',
+        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/prod/src/assets/images/tokens/wstKLAY.png',
     },
     '0xA1338309658D3Da331C747518d0bb414031F22fd': {
       symbol: 'KoKAIA',
       logoURI:
-      // eslint-disable-next-line max-len
-        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/KOKAIA.png',
+        // eslint-disable-next-line max-len
+        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/prod/src/assets/images/tokens/KOKAIA.png',
     },
     '0xdEC2Cc84f0a37Ef917f63212FE8ba7494b0E4B15': {
       symbol: 'wKoKAIA',
       logoURI:
         // eslint-disable-next-line max-len
-        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/stg/src/assets/images/tokens/wKoKAIA.png',
+        'https://raw.githubusercontent.com/ColligenceLabs/tokenlists/prod/src/assets/images/tokens/wKoKAIA.png',
     },
   },
 }
