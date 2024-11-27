@@ -13,4 +13,5 @@ export default [
   '0xa323d7386b671e8799dca3582d6658fdcdcd940a', // sKLAY     - Ozys Klaystation
   '0xa006e8df6a3cbc66d4d707c97a9fdaf026096487', // 5LST
   '0x17f3eda2bf1aa1e7983906e675ac9a2ab6bc57de', // KAIA-5LST
+  '0xf71682f547b4abd90f9308f0d1b76ff64e38fd12', // KAIA-3LST
 ]
