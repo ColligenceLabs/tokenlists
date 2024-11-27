@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-26T07:18:39.983Z",
+    "timestamp": "2024-11-27T01:28:44.624Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -174,6 +174,20 @@
             "extensions": {
                 "coingeckoId": "sklay"
             }
+        },
+        {
+            "chainId": 8217,
+            "address": "0xA006e8dF6A3CBc66D4D707C97A9FDAf026096487",
+            "name": "5LST Stable Pool",
+            "symbol": "5LST",
+            "decimals": 18
+        },
+        {
+            "chainId": 8217,
+            "address": "0x17F3Eda2bF1aa1e7983906e675aC9a2ab6BC57De",
+            "name": "KAIA/5LST Stable Pool",
+            "symbol": "KAIA-5LST",
+            "decimals": 18
         }
     ]
 }
