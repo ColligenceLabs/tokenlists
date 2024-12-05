@@ -74,18 +74,12 @@ export const overwrites: OverwritesForList = {
     },
     '0x42952B873ed6f7f0A7E4992E2a9818E3A9001995': {
       symbol: 'stKAIA',
-      extensions: {
-        coingeckoId: 'lair-staked-kaia',
-      },
       logoURI:
         // eslint-disable-next-line max-len
         'https://assets.coingecko.com/coins/images/40001/standard/token_stkaia.png?1725117614',
     },
     '0xA323d7386b671E8799dcA3582D6658FdcDcD940A': {
       symbol: 'sKLAY',
-      extensions: {
-        coingeckoId: 'sklay',
-      },
       logoURI:
         // eslint-disable-next-line max-len
         'https://assets.coingecko.com/coins/images/13912/standard/sKLAY_logo.png?1696513653',
