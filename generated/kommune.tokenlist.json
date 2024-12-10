@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-12-05T02:34:56.402Z",
+    "timestamp": "2024-12-10T02:29:16.653Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -159,7 +159,10 @@
             "name": "Lair Staked KAIA",
             "symbol": "stKAIA",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/40001/standard/token_stkaia.png?1725117614"
+            "logoURI": "https://assets.coingecko.com/coins/images/40001/standard/token_stkaia.png?1725117614",
+            "extensions": {
+                "coingeckoId": "lair-staked-kaia"
+            }
         },
         {
             "chainId": 8217,
