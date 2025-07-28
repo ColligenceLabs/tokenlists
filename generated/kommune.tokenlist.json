@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-11-21T09:39:00.813Z",
+    "timestamp": "2025-07-28T23:44:37.386Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -88,6 +88,13 @@
             "address": "0xb15782EFbC2034E366670599F3997f94c7333FF9",
             "name": "Kommune KAIA",
             "symbol": "KoKAIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x9a93e2fcDEBE43d0f8205D1cd255D709B7598317",
+            "name": "Kommune Wrapped KoKAIA",
+            "symbol": "wKoKAIA",
             "decimals": 18
         }
     ]
