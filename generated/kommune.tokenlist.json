@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-07-29T00:32:29.786Z",
+    "timestamp": "2025-08-07T04:18:36.305Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -102,6 +102,20 @@
             "address": "0x8193fE745f2784b1f55e51F71145D2b8B0739B81",
             "name": "20 USDT/80 wKoKAIA",
             "symbol": "20USDT/80wKoKAIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0xdaCa7fAf695a60b048d0b607639EAd4b1e6c6F43",
+            "name": "Wrapped GCKAIA",
+            "symbol": "wGCKAIA",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x9F5aEDd5dCB114530523684A970f8d416a2CA902",
+            "name": "Wrapped stKLAY",
+            "symbol": "wstKLAY",
             "decimals": 18
         }
     ]
