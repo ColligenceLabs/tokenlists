@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-11T00:56:03.603Z",
+    "timestamp": "2025-08-12T03:20:06.837Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -121,8 +121,15 @@
         {
             "chainId": 1001,
             "address": "0x83Ea5b4bcB633932CB6fE14AD30c58D46cd58e7b",
-            "name": "5LST",
+            "name": "25 stKAIA/25 wKoKAIA/25 wstKLAY/25 wGCKAIA",
             "symbol": "5LST",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x45886b01276c45Fe337d3758b94DD8D7F3951d97",
+            "name": "Lair Finance",
+            "symbol": "stKAIA",
             "decimals": 18
         }
     ]
