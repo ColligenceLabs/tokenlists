@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2025-08-20T05:51:25.174Z",
+    "timestamp": "2025-08-26T00:03:54.861Z",
     "tokens": [
         {
             "chainId": 1001,
@@ -135,6 +135,13 @@
         {
             "chainId": 1001,
             "address": "0xCC163330E85C34788840773E32917E2F51878B95",
+            "name": "4LST Stable Pool",
+            "symbol": "4LST",
+            "decimals": 18
+        },
+        {
+            "chainId": 1001,
+            "address": "0x730294C498e24846AD944b888Fea2bA76ed7B21E",
             "name": "4LST Stable Pool",
             "symbol": "4LST",
             "decimals": 18
